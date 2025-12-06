@@ -1,0 +1,28 @@
+{
+  "name": "node-js-tutorial",
+  "version": "1.0.0",
+  "description": "NodeJS Tutorial",
+  "homepage": "https://github.com/avpgithub-code/NODE-JS-TUTORIAL#readme",
+  "bugs": {
+    "url": "https://github.com/avpgithub-code/NODE-JS-TUTORIAL/issues"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/avpgithub-code/NODE-JS-TUTORIAL.git"
+  },
+  "license": "ISC",
+  "author": "Archit Pandya",
+  "type": "module",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "dev": "nodemon --exec cmd /c start.bat",
+    "start": "node /backend/src/index.js"
+  },
+  "dependencies": {
+    "dotenv": "^17.2.3",
+    "express": "^5.2.1",
+    "mongoose": "^9.0.0",
+    "nodemon": "^3.1.11"
+  }
+}

@@ -1,0 +1,1 @@
+node -r dotenv/config C:\Users\archi\Documents\ML-DL\NODE-JS-TUTORIAL\backend\src\index.js
