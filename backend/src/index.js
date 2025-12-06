@@ -7,6 +7,8 @@ import app from "./app.js";
 // });
 //C:\Users\archi\Documents\ML-DL\NODE-JS-TUTORIAL\index.js
 //C:\Users\archi\Documents\ML-DL\NODE-JS-TUTORIAL\backend\src\index.js
+//C:\Users\archi\Documents\ML-DL\NODE-JS-TUTORIAL\backend\src\index.js 
+//C:\Users\archi\Documents\ML-DL\NODE-JS-TUTORIAL\package.json
 //C:\Users\archi\Documents\ML-DL\NODE-JS-TUTORIAL\backend\src\index.js
 const startServer = async () => {
     try {

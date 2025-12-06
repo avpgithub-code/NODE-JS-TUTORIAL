@@ -16,8 +16,7 @@
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
-    "dev": "nodemon --exec cmd /c start.bat",
-    "start": "node /backend/src/index.js"
+    "dev": "nodemon -r dotenv/config -- backend/src/index.js"
   },
   "dependencies": {
     "dotenv": "^17.2.3",
